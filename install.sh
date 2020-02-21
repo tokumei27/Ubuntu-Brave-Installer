@@ -3,7 +3,7 @@
 printf "You must enter your password below. If you have never done this in a terminal before, don't be alarmed when no text appears. Despite it looking as if it isn't working, just type your password and hit enter. This is the default behavior of the sudo program.\n"
 
 printf "Creating temporary directory \'/tmp/brave-install\'\n"
-sudo mkdir -R /tmp/brave-install
+sudo mkdir  /tmp/brave-install
 cd /tmp/brave-install
 
 printf "Installing apt-transport-https and curl\n"
