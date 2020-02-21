@@ -1,11 +1,5 @@
 #!/usr/bin/env bash
-echo " ___           _        _ _ _               ____
-|_ _|_ __  ___| |_ __ _| | (_)_ __   __ _  | __ ) _ __ __ ___   _____
- | || '_ \/ __| __/ _` | | | | '_ \ / _` | |  _ \| '__/ _` \ \ / / _ \
- | || | | \__ \ || (_| | | | | | | | (_| | | |_) | | | (_| |\ V /  __/
-|___|_| |_|___/\__\__,_|_|_|_|_| |_|\__, | |____/|_|  \__,_| \_/ \___|
-                                    |___/
-"
+
 printf "You must enter your password below. If you have never done this in a terminal before, don't be alarmed when no text appears. Despite it looking as if it isn't working, just type your password and hit enter. This is the default behavior of the sudo program.\n"
 
 sudo -i
