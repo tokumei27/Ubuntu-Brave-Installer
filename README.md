@@ -1,5 +1,5 @@
 # Ubuntu-Brave-Installer
-Brave installation on Ubuntu for normies. 
+Brave installation on Ubuntu made simple
 
 
 ## How to Use
